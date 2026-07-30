@@ -604,7 +604,6 @@ a.download::before {
 
 .item-content small:last-child b,
 .about-text b {
-    font-size: 11.5px !important;
     font-weight: normal;
     color: #111111;
     padding: 0px 1px;
